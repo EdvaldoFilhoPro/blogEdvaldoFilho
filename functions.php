@@ -32,7 +32,7 @@ add_theme_support('post-thumbnails');
 //Habilitar Logomarca Customizada
 add_theme_support('custom-logo', array(
     'width' => 150,
-    'height' => 70,
+    'height' => 150,
     'flex-width' => true,
 ));
 
