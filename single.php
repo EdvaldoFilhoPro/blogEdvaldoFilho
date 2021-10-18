@@ -122,7 +122,7 @@
           <h3 class="sidebar-title">Recent Posts</h3>
           <div class="sidebar-item recent-posts">
           <?php 
-          $destaque = new WP_Query('post_type=post&post_per_page=1&cat=5,6,7');
+          $destaque = new WP_Query('post_type=post&post_per_page=1&cat=1,3,4');
           if($destaque->have_posts()):
               while($destaque->have_posts()): $destaque->the_post();
           ?>
