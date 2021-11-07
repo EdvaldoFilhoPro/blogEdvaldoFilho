@@ -40,8 +40,8 @@
 
       </div>
       <div class="cta">
-        <a href=""><i class="icofont-linkedin"></i></a>
-        <a href=""><i class="icofont-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/edvaldo-filho/"><i class="icofont-linkedin"></i></a>
+        <a href="https://www.instagram.com/_edvaldo_filho_/"><i class="icofont-instagram"></i></a>
       </div>
     </div>
   </section>

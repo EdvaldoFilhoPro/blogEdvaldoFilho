@@ -69,8 +69,8 @@
             <?php
             the_posts_navigation(
                     array(
-                      'prev_text' => 'volta',
-                      'next_text' => 'avanca',
+                      'next_text' => '<h2><i class="icofont-block-left"></i></h2>',
+                      'prev_text' => '<h2><i class="icofont-block-right"></i></h2>',
                     )
             );
              ?>
