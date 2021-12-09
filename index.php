@@ -22,7 +22,6 @@
               if(have_posts()):
                   while(have_posts()): the_post();
             ?>
-
           <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
           
             <article class="entry">
