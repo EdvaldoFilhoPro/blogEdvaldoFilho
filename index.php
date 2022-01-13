@@ -60,7 +60,6 @@
                 endif;
             ?>
 
-
         </div>
 
         <div class="blog-pagination" data-aos="fade-up">
