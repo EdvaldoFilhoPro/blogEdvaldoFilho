@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 18px;
 }
 
-#topbar .contact-info p {
+#topbar .contact-info a {
   color: rgba(255, 255, 255, 0.8);
   transition: 0.3s;
 }
@@ -95,7 +95,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-right: 4px;
 }
 
-#topbar .cta p {
+#topbar .cta a {
   color: #fff;
   background: #428BCA;
   padding: 8px 20px;
@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 
-#topbar .cta p:hover {
+#topbar .cta a:hover {
   background: #0C68B6;
 }
 
