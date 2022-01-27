@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Blog - Flexor Bootstrap Template</title>
+  <title>Blog - Edvaldo Filho</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -51,10 +51,10 @@
     <div class="container d-flex">
 
       <div class="logo mr-auto">
-        <!-- <h1 class="text-light"><a href="index.html"><span>Flexor</span></a></h1> -->
+        <h1 class="text-light"><a href="index.html"><span>Edvaldo Filho</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo/EdvaldoFilho.png" alt="" class="img-fluid"></a> -->
-        <a href="index.html" class="img-fluid" ><?php the_custom_logo();?></a>
+        <!-- <a href="index.html" class="img-fluid" ></a> -->
       </div>
 
       <nav class="nav-menu d-none d-lg-block">
